@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    flex-direction:column ;
+}
+span{
+    color:#191970;
+}
+h1{
+    font-size: 70px;
+    font-family: "Poppins", sans-serif;
+}
+#div1{
+    padding: 30px;
+}    
+.image{
+    width: 300px;
+    height: 180px;
+    float: left;
+}
+#one{
+    display: inline-block;
+}
+#two{
+    display: inline-block;
+    margin-left: 600px;
+}
+p{
+    font-family: "Poppins", sans-serif;
+}
+footer{
+    color: #944370;
+    margin-left: 1100px;
+}
+
+
+
+

@@ -1,0 +1,10 @@
+.class1{
+    display: flex;
+}
+.square{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+}

@@ -1,0 +1,25 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+
+p{
+    margin: 0;
+}
+#aqua{
+    background-color: #5F9EA0;
+    border: 10px solid black;
+    padding: 20px;
+}
+
+#yellow{
+    background-color: #FFD700;
+    border: solid black;
+    border-width: 20px 10px;
+    margin-left: 260px;
+}
+#red{
+    background-color: #CD5C5C;
+    border: 10px solid black;
+    margin-left: 40px;
+}

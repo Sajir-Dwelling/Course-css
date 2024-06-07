@@ -1,0 +1,19 @@
+div{
+    background-color: #0000FF;
+    border: 15px solid rebeccapurple;
+    padding: 10px;
+}
+.yellow1{
+    color: #eada8b;
+    
+    margin: 0;
+    font-size: 25px;
+}
+.white{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 4px;
+}

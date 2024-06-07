@@ -1,0 +1,21 @@
+#red1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+#green1{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+#blue1{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.para{
+    color: white;
+}
+div{
+    display: inline-block;
+}

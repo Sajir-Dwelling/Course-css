@@ -1,0 +1,23 @@
+img{
+    float: left;
+}
+p{
+    font-size: 2em;
+}
+#one{
+    background-color: #7FFFD4;
+    
+    float: left;
+}
+#two{
+    background-color: #FF7F50;
+    float: right;
+}
+div {
+    width: 40%;
+}
+footer{
+    background-color: blueviolet;
+    text-align: center;
+    clear: both;
+}
