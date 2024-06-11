@@ -1,0 +1,13 @@
+div{
+    background-color: #FFD700;
+    display:flex;
+    gap: 20px;
+    
+}
+p{
+    font-size: 17px;
+    font-weight: bold;
+}
+a{
+   padding-top: 18px;
+}

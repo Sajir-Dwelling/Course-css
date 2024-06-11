@@ -1,0 +1,10 @@
+.hero{
+    
+    display: flex;
+    gap: 10px;
+}
+p{
+    background-color:black;
+    color: azure;
+    padding: 10px;
+}

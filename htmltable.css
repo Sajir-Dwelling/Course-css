@@ -1,0 +1,17 @@
+td{
+    border: 10px solid white;
+    padding: 7px;
+    background-color: antiquewhite;
+}
+.col1{
+    width: 20%;
+}
+.col2{
+    width: 25%;
+}
+.col3{
+    width: 30%;
+}
+table{
+    width: 100%;
+}
