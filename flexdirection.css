@@ -1,0 +1,43 @@
+body{
+    background-color: darkgray;
+    align-items: center;
+    color: aliceblue;
+}
+.blue1{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(125, 190, 225);
+    margin-left: 150px;
+    
+}
+.white1{
+    background-color: aliceblue;
+    width: 1000px;
+    height: 100px;
+    margin-left: 150px;
+}
+.blue2{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(125, 190, 225);
+    margin-left: 150px;
+}
+.container{
+    display: inline-flex;
+    margin-left: 100px;
+    margin-top: 50px;
+    border: 5px solid yellow;
+    flex-direction: column;
+}
+.blue3{
+    background-color: blue;
+}
+.red1{
+    background-color: red;
+}
+.purple1{
+    background-color: purple;
+}
+.container > *{
+    flex-basis: 100px;
+}
